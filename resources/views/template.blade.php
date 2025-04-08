@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale =1">
     <!--css-->
     <link rel="stylesheet" href="{{ asset('assets/componentes/css/style_Componente.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/componentes/js/datatables/css/jquery.dataTables.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/js/datatables/css/jquery.dataTables.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/js/datatables/css/responsive.dataTables.min.css') }}">
 
     <link rel="stylesheet" href="{{ asset('assets/css/auxiliar.css') }}">
